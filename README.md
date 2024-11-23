@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawandev200&label=Profile%20views&color=0e75b6&style=flat" alt="pawandev200" /> </p>
 
-- 🌱 I love **competitive programming, machine learning**.
+- 🌱 I love **competitive programming and software development**.
 
 - 🌱 I’m currently learning **Web Development, machine learning**.
-- 👯 I’m looking to collaborate on **Web-Dev, ML Projects**.
+- 👯 I’m looking to collaborate on **Web Development Projects**.
 
 - 📫 How to reach me **pawandevlkr736@gmail.com**
 
