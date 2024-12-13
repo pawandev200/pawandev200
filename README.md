@@ -3,12 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawandev200&label=Profile%20views&color=0e75b6&style=flat" alt="pawandev200" /> </p>
 
-- 🌱 I love **competitive programming and software development**.
-
-- 🌱 I’m currently learning **Web Development, machine learning**.
+- 🔭 I’m currently working on my **Competetive Programming** skills
+  
+- 🌱 I’m currently learning **machine learning**.
+- 
 - 👯 I’m looking to collaborate on **Web Development Projects**.
 
 - 📫 How to reach me **pawandevlkr736@gmail.com**
+
+
+<a align="centre" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=962&center=true&multiline=true&random=false&width=755&height=70&lines=Hi+!+I+am+Archisha+Gupta;Welcome+to+my+Github" alt="Hi ! I am Archisha Gupta" /></a>
+<h3 align="center">Currently studying at Indian Institute of Technology, Kharagpur</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archisha394&label=Profile%20views&color=0e75b6&style=flat" alt="archisha394" /> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
