@@ -99,27 +99,20 @@
 </p>  -->
 
 ## 🛠 My Tech Stack
-### **Data Structures & Algorithms:**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+### **Programming Languages:**  
+[![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ### **Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)  [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)  [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ### **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)  
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?&style=flat-square&logo=mongoose)  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)  [![Express](https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)  [![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?&style=flat-square&logo=mongoose)](https://mongoosejs.com/)  [![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+### **Deployment:**  
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)  [![Render](https://img.shields.io/badge/Render-%23F0E000.svg?&style=flat-square&logo=render&logoColor=white)](https://render.com/)  [![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?&style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
+
+### **Others:**  
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)  [![SQL](https://img.shields.io/badge/SQL-%232F2F2F.svg?&style=flat-square&logo=postgresql&logoColor=white)](https://www.sql.org/)  [![Socket.io](https://img.shields.io/badge/Socket.io-%23000000.svg?&style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)  [![Zustand](https://img.shields.io/badge/Zustand-%23333.svg?&style=flat-square&logo=zustand&logoColor=white)](https://zustand.docs.pmnd.rs/getting-started/introduction)  [![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?&style=flat-square&logo=redux&logoColor=CAB0F4)](https://redux.js.org/)  [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)  [![Git](https://img.shields.io/badge/Git-%23F1502F.svg?&style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  [![Power BI](https://img.shields.io/badge/Power%20BI-%230A6EBD.svg?&style=flat-square&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)  [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=linux&logoColor=white)](https://www.kernel.org/)
 
 
 
