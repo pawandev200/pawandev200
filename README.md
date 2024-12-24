@@ -99,9 +99,9 @@
 </p>  -->
 
 ### **Data Structures & Algorithms:**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
 
 
