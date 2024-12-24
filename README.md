@@ -9,7 +9,7 @@
   
 - 📫 How to reach me **pawandevlkr736@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!--   <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/pawandev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawandev kumar" height="30" width="40" />
@@ -20,7 +20,22 @@
   <a href="https://instagram.com/pawandev_4691" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawandev_4691" height="30" width="40" />
   </a>
-</p>
+</p>  -->
+
+<div id="badges" align="left">
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/pawandev">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://instagram.com/pawandev_4691">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/pawandev.kumar.547/">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
