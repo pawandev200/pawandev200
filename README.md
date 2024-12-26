@@ -21,7 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawandev_4691" height="30" width="40" />
   </a>
 </p>  -->
-
+<h3 align="left">Connect with me:</h3>
 <div id="badges" align="left">
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/pawandev">
